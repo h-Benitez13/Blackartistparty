@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blackartistparty/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Blackartistparty/static/js/main.55018acc.chunk.js",
+    "main.js.map": "/Blackartistparty/static/js/main.55018acc.chunk.js.map",
+    "runtime~main.js": "/Blackartistparty/static/js/runtime~main.2f701cdd.js",
+    "runtime~main.js.map": "/Blackartistparty/static/js/runtime~main.2f701cdd.js.map",
+    "static/js/2.fd25479e.chunk.js": "/Blackartistparty/static/js/2.fd25479e.chunk.js",
+    "static/js/2.fd25479e.chunk.js.map": "/Blackartistparty/static/js/2.fd25479e.chunk.js.map",
+    "index.html": "/Blackartistparty/index.html",
+    "precache-manifest.619877a6efbe964fb89247a4205fe9c3.js": "/Blackartistparty/precache-manifest.619877a6efbe964fb89247a4205fe9c3.js",
+    "service-worker.js": "/Blackartistparty/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Blackartistparty/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Blackartistparty/static/media/logo.5d5d9eef.svg"
+  }
+}
