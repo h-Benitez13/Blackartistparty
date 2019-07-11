@@ -1,4 +1,5 @@
-.App {
+.App,
+.home {
   text-align: center;
 }
 
@@ -21,6 +22,40 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.bap {
+  height: 100vh;
+  min-width: 100vw;
+  animation: Fade 3s ease-out both;
+}
+iframe {
+  height: 100vmin;
+  width: 100vw;
+}
+
+.container {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+}
+@keyframes Fade {
+  from {
+    opacity: 1;
+    display: block;
+  }
+  to {
+    opacity: 0;
+    display: none;
+  }
 }
 
 @keyframes App-logo-spin {
