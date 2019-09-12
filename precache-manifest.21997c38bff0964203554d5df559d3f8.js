@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0caae8e5238f362afe5eba766ea11ae4",
+    "revision": "67195e9930e7f8228ea5f6a876c64024",
     "url": "/Blackartistparty/index.html"
   },
   {
-    "revision": "c1954df31746398353a7",
-    "url": "/Blackartistparty/static/css/main.281ff952.chunk.css"
+    "revision": "6277904e9803f7e519d0",
+    "url": "/Blackartistparty/static/css/main.04b32486.chunk.css"
   },
   {
     "revision": "e744fdfa58e235ed2bc1",
     "url": "/Blackartistparty/static/js/2.276d92ad.chunk.js"
   },
   {
-    "revision": "c1954df31746398353a7",
-    "url": "/Blackartistparty/static/js/main.1927b6c6.chunk.js"
+    "revision": "6277904e9803f7e519d0",
+    "url": "/Blackartistparty/static/js/main.c59df19a.chunk.js"
   },
   {
     "revision": "1b6f8cfd43f9f3cf8668",

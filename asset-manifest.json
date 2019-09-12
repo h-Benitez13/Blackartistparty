@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Blackartistparty/static/css/main.281ff952.chunk.css",
-    "main.js": "/Blackartistparty/static/js/main.1927b6c6.chunk.js",
-    "main.js.map": "/Blackartistparty/static/js/main.1927b6c6.chunk.js.map",
+    "main.css": "/Blackartistparty/static/css/main.04b32486.chunk.css",
+    "main.js": "/Blackartistparty/static/js/main.c59df19a.chunk.js",
+    "main.js.map": "/Blackartistparty/static/js/main.c59df19a.chunk.js.map",
     "runtime~main.js": "/Blackartistparty/static/js/runtime~main.2f701cdd.js",
     "runtime~main.js.map": "/Blackartistparty/static/js/runtime~main.2f701cdd.js.map",
     "static/js/2.276d92ad.chunk.js": "/Blackartistparty/static/js/2.276d92ad.chunk.js",
     "static/js/2.276d92ad.chunk.js.map": "/Blackartistparty/static/js/2.276d92ad.chunk.js.map",
     "index.html": "/Blackartistparty/index.html",
-    "precache-manifest.7824e8367d740b344ee23aba826c2a9d.js": "/Blackartistparty/precache-manifest.7824e8367d740b344ee23aba826c2a9d.js",
+    "precache-manifest.21997c38bff0964203554d5df559d3f8.js": "/Blackartistparty/precache-manifest.21997c38bff0964203554d5df559d3f8.js",
     "service-worker.js": "/Blackartistparty/service-worker.js",
-    "static/css/main.281ff952.chunk.css.map": "/Blackartistparty/static/css/main.281ff952.chunk.css.map",
+    "static/css/main.04b32486.chunk.css.map": "/Blackartistparty/static/css/main.04b32486.chunk.css.map",
     "static/media/BAP.jpg": "/Blackartistparty/static/media/BAP.a727e950.jpg",
     "static/media/logo.svg": "/Blackartistparty/static/media/logo.5d5d9eef.svg"
   }

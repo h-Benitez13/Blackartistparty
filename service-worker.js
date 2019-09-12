@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Blackartistparty/precache-manifest.7824e8367d740b344ee23aba826c2a9d.js"
+  "/Blackartistparty/precache-manifest.21997c38bff0964203554d5df559d3f8.js"
 );
 
 self.addEventListener('message', (event) => {
