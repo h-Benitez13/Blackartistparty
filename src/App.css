@@ -34,35 +34,17 @@ iframe {
   width: 100vw;
 }
 
-.container {
-  position: relative;
+nav > a > h1:hover {
+  color: blue;
+  transform: translate(0px, -2px);
 }
 
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
+.landing-img > img {
+  border: 10px solid black;
 }
-@keyframes Fade {
-  from {
-    opacity: 1;
-    display: block;
-  }
-  to {
-    opacity: 0;
-    display: none;
-  }
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+img[alt="BlackartistParty logo"] {
+  padding: 10px 10px;
+  width: 50%;
+  height: 700px;
+  margin-bottom: 100px;
 }
